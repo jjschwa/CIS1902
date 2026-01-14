@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+The best way to contact staff is by posting on the EdStem. Private posts can be viewed by all 3 staff members. You are likely to get a quicker response by posting there. If you have a private question, please reach out to the instructor, Jordan.
 
 ## Instructors
 
