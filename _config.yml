@@ -54,6 +54,11 @@ defaults:
       layout: module
   - scope:
       path: ''
+      type: guides
+    values:
+      layout: guide
+  - scope:
+      path: ''
       type: schedules
     values:
       layout: schedule

@@ -8,7 +8,4 @@ navname: Guides
 
 Here you can find various guides to help you setup and efficiently manage your local environment.
 
-{% for guide in site.guides %}
-hello
-{{ guide }}
-{% endfor %}
+## [Virtual Environments](../guides/guide_virtual_env/)

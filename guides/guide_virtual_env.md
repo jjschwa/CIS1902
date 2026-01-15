@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Using Virtual Environments"
-guideno: 1
+title: Using Virtual Environments
+nav_exclude: true
 ---
 
 ## Motivation
