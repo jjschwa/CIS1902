@@ -16,10 +16,10 @@ This section of CIS 1902 will start with the fundamentals of Python, sliding int
 
 Some highlights of the topics covered include:
 
-Data Analysis and Scientific Computing (pandas and numpy)
-Machine Learning and Neural Nets (scikit-learn and PyTorch)
-How the Web Works
-Fullstack Development and REST APIs (Django & Flask)
+- Data Analysis and Scientific Computing (pandas and numpy)
+- Machine Learning and Neural Nets (scikit-learn and PyTorch)
+- How the Web Works
+- Fullstack Development and REST APIs (Django & Flask)
 
 ## Prerequisites
 
