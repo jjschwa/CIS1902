@@ -12,5 +12,4 @@ Apr 8
 
 Apr 15
 : [Django](#)
-  : [HW 6](#)
 : **HW 5 due**{: .label .label-red }

@@ -9,10 +9,12 @@ Feb 25
 
 Mar 4
 : [Pandas, Matplotlib, EDA](#)
-  : **Final Project Released**{: .label .label-yellow }
+  : **[Final Project Released](#)**{: .label .label-yellow }
+  <!-- (../project/project_spec.md) -->
 
 Mar 18
 : [Machine Learning](#)
+  : [HW 4](#)
 : **HW 3 due**{: .label .label-red }
 
 Mar 25
