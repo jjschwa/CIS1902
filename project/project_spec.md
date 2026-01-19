@@ -24,11 +24,13 @@ Also, if you pick something ambitious, it's totally fine to have something that'
 
 **Due Date:**
 
-The first deadline will be the project proposal. Write no longer than a page about your idea and how you will attempt to accomplish it. Identify what you think will be the hardest portion of the project. What packages do you think you will need to use? What's the end goal of the project?
+The first part of the first deadline will be the project proposal. Write no longer than a page about your idea and how you will attempt to accomplish it. Identify what you think will be the hardest portion of the project. What packages do you think you will need to use? What's the end goal of the project?
 
 Feel free (in fact it might be easier) to break your information into tables or bullet points so it's clear which pieces are going into it. 
 
-Keep in mind that the earlier you submit your proposal the earlier I can give feedback!
+The second part will be a ~15 minute meeting with a staff member to get feedback.
+
+Keep in mind that the earlier you submit your proposal and sign up for a meeting, the earlier I can give feedback!
 
 ### Project Presentation
 
