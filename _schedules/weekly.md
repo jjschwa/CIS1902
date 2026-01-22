@@ -20,7 +20,21 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Anushka's OH
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Zoom (link will be posted on Ed)
   - name: Tuesday
+    events:
+      - name: Jordan's OH
+        start: 10:00 AM
+        end: 11:00 AM
+        location: GRW (located between Moore and Levine) 5th Bump space 
+      - name: Suhani's OH
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Levine 6th floor bump space \#601
   - name: Wednesday
     events:
       - name: Lecture

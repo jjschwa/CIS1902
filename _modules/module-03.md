@@ -13,10 +13,10 @@ Mar 4
   <!-- (../project/project_spec.md) -->
 
 Mar 18
-: [Machine Learning
-  : [HW 4](#)
+: Machine Learning
+  : HW 4
 : **HW 3 due**{: .label .label-red }
 
 Mar 25
-: [Deep Learning](#)
+: Deep Learning
 : **Final Project Checkpoint**{: .label .label-yellow }

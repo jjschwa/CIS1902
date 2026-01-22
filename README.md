@@ -31,7 +31,7 @@ We will primarily use Ed for discussion outside of lecture and office hours. The
 
 ## Grading
 
-There are 6 homework assignments and a final project. Homeworks will count for 55% of your grade, the final project will count for 35%, and attendance and participation will count for 10%. The final project checkpoint is worth 5%, the final presentation is worth 10%, and the final coding deliverable is worth 10%. Throughout the lecture students will fill out a form and submit it at the end of the lecture; this will count for attendance and participation. One unexcused absence will be granted no questions asked. Excused absences will be given for unavoidable conflicts, e.g. a job interview, illness. There will be opportunities for extra credit throughout the course!
+There are 6 homework assignments and a final project. Homeworks will count for 55% of your grade, the final project will count for 35%, and attendance and participation will count for 10%. The final project checkpoint is worth 5%, the final presentation is worth 15%, and the final coding deliverable is worth 15%. Throughout the lecture students will fill out a form and submit it at the end of the lecture; this will count for attendance and participation. One unexcused absence will be granted no questions asked. Excused absences will be given for unavoidable conflicts, e.g. a job interview, illness. There will be opportunities for extra credit throughout the course!
 
 ## Assignment Deadlines and Late Submissions
 
