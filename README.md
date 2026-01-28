@@ -41,6 +41,9 @@ Unfortunately, there is one exception to this policy: no late days nor grace per
 ## Collaboration
 Verbal collaboration is encouraged, especially during in-class practice problems! However, copying code, looking at another student's code, reading code off verbatim, etc. is forbidden.
 
+### AI usage policy
+While we understand that it's pretty impossible to avoid AI these days (looking at you Google search AI lol), and it's often times even harder to resist temptation... PLEASE TRY NOT TO USE AI TO COMPLETE YOUR ASSIGNMENTS!! The goal of this class is for YOU to learn Python. Chat GPT already knows it. It doesn't need the practice. And yes, I'm going to be quite transparent with you, I'm aware that much of what is assigned in this course could be completed using an LLM, there's just not much I can do to prevent you from using it other than appeal to why you are taking this course. If your goal is to learn how to apply an LLM to Python problems, then I'm not going to stop you, but I would like you to think about why that's your goal and if it will really benefit you in the long run. Don't waste opportunities to learn. So TLDR: I can't technically stop you from using an LLM to complete assignments, but I wish I could because it would promote better learning. Other than assignments and practice problems, I have no problems with using an LLM for learning support, such as searching the Python documentation. 
+
 
 Licensing Information: You are free to use or extend these projects for educational purposes provided that (1) you do not distribute or publish solutions, (2) you retain this notice, and (3) you provide clear attribution to the University of Pennsylvania, including a link to ___.
 

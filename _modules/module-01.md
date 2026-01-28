@@ -7,7 +7,7 @@ Jan 21
   : [HW 0](../HWs/HW0/), [HW 1](../HWs/HW1)
 
 Jan 28
-: Data Structures and Sequences
+: [Data Structures and Sequences](../slides/Lecture2_DataStructures.pdf)
 : **HW 0 due**{: .label .label-red }
 
 Feb 4
