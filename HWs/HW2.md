@@ -15,6 +15,9 @@ Download the zip file with all necessary base files for both parts of this homew
 
 In this portion of the homework you will be getting some practice using the turtle graphics library as well as using recursion. 
 
+For question #2, here is an example of what a tree could look like, but we will accept any structure that resembles a recursive tree (eg. more than 2 branches or vertical).
+
+![tree example](../HWs/HW2Tree.png "Tree Example")
 
 ## Part 2 - Pygame Mini-Game
 
