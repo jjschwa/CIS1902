@@ -11,7 +11,7 @@ Jan 28
 : **HW 0 due**{: .label .label-red }
 
 Feb 4
-: Pythonic Programming
+: [Miscellaneous Pythonic Programming](../slides/Lecture3.pdf)
 
 Feb 11
 : Modules, Testing, Scripting, Exceptions
