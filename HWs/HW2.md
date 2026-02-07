@@ -9,7 +9,7 @@ Due Date:
 
 Download the zip file with all necessary base files for both parts of this homework here.
 
-[HW2.zip](../HW2.zip)
+[HW2.zip](#)
 
 ## Part 1 - Turtle Graphics Fractals
 
