@@ -38,6 +38,9 @@ There are 6 homework assignments and a final project. Homeworks will count for 5
 All assignments are due 30 minutes prior to the start of class the day they are due. Every assignment will have a 24 hour “grace period” window, in which there is no penalty for submitting late. All assignments must be submitted to Gradescope by the end of this grace period to be considered on time. In addition to the grace period, every student gets 5 late days that they may use at any point in the semester. You may use up to 1 late day on any one assignment. Late days are automatically applied for any submission submitted after the grace period deadline. This means the latest any assignment may be submitted is 48 hours after 30 minutes prior to the start of class the day the assignment is originally due. 
 Unfortunately, there is one exception to this policy: no late days nor grace period will apply to the final project because of the final project in class presentations. 
 
+## Attendance Late Policy
+If you don't email Jordan or post on Ed at least 3 hours before class that you need to be excused for being late, 3 tardies will result in the equivalent as one unexcused absence. Keep in mind that you get 1 free unexcused absence. In other words, there are 14 classes, but the max points in the attendance category is 13. 
+
 ## Collaboration
 Verbal collaboration is encouraged, especially during in-class practice problems! However, copying code, looking at another student's code, reading code off verbatim, etc. is forbidden.
 
