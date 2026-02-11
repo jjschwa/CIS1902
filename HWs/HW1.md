@@ -11,7 +11,7 @@ This homework is designed to get you warmed up and familiar with Python syntax a
 
 Please refer to the instructions in the file to fill out each function definition. 
 
-Additionally, you will be submitting a test file called `HW1_test.py` that you make from scratch. In this file, you will use the unittest library to write unit tests for *5 different functions*. 
+Additionally, you will be submitting a test file called `HW1_test.py` that you make from scratch. In this file, you will use the unittest library to write unit tests for *5 different functions*. These unittests don't need to be comprehensive, meaning they cover every possible edge case, but they should be more interesting than testing an obvious input and output when possible. Aim for an edge case or to test a specific condition or behavior.  
 
 ## Starter File
 
