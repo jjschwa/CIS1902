@@ -14,5 +14,5 @@ Feb 4
 : [Miscellaneous Pythonic Programming](../slides/Lecture3.pdf)
 
 Feb 11
-: Modules, Testing, Scripting, Exceptions
+: [Modules, Testing, Scripting, Exceptions](../slides/lec4slides.pdf)
 
