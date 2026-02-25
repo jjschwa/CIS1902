@@ -4,12 +4,18 @@ title: HW3 - Data Science Part 1
 nav_exclude: true
 ---
 
-# HW3 - Predicting NYC Property Values Part 1
-Due Date: 
+# HW3 - Numpy Practice & Predicting NYC Property Values Part 1
+Due Date: Mar 18, 2026
 
 [nyc-property-sales.csv](../HWs/nyc-property-sales.csv)
 
-[nyc_properties.ipynb](../HWs/hw3.ipynb)
+[hw3.ipynb](../HWs/hw3.ipynb)
+
+## Part 0: Numpy Practice
+
+Instructions to complete this part are given in the notebook itself. I would expect this section to take less than an hour, if you find yourself struggling, please come to office hours!
+
+## Part 1-4: Predicting NYC Property Values Part 1
 
 This dataset was taken from Kaggle.
 
@@ -18,7 +24,7 @@ In this assignment, we'll be working with a dataset of property sales within New
 1. First, we'll first clean the data and then answer some questions that will provide us with insight to formulate a predictive model for property prices.
 2. We'll then use the insights from above to create a linear regression model to predict prices.
 
-Attached you will find the dataset of NYC property sales (`nyc-property-sales.csv`). Information about the columns are described in the table below. Additionally, you will find a starter Python Notebook (`nyc_properties.ipynb`) with cells that have questions you should determine the answers to. Submit your completed notebook on Canvas.
+Attached you will find the dataset of NYC property sales (`nyc-property-sales.csv`). Information about the columns are described in the table below. Additionally, you will find a starter Python Notebook (`hw3.ipynb`) with cells that have questions you should determine the answers to. Submit your completed notebook on Gradescope.
 
 | Column | Definition |
 |--------|------------|
