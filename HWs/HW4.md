@@ -20,7 +20,7 @@ Now that we have some ideas about what parameters are important, let's fit a reg
 
 ### Feature Engineer & Feature Selection
 
-Think about what you think would be the most informative features to train on. Additionally, you may think of some more features that may be informative to the model. Don't simply include all features to your model, this might result in some terribly long training times. Ideally, your model shouldn't take longer than about 30 seconds to train. For reference, the best model I found took only about 9 seconds to train.
+Think about what you think would be the most informative features to train on. Additionally, you may think of some more features that may be informative to the model. Don't simply include all features to your model, this might result in some terribly long training times. Ideally, your model shouldn't take longer than about 30 seconds to train. For reference, the best model we have found took only about 9 seconds to train.
 
 A warning: don't include any features that are derived from price! For example, if we include `price_per_sqft` and `gross_square_feet`, then our model will easily figure out the price and have basically zero error. Since our goal is to determine the price, we should only provide features that are disjoint from it.
 
@@ -33,7 +33,7 @@ Once you've got an idea of which features are important, let's train our model! 
 3. Fit the model!
 4. Test the model to determine it's accuracy. There are two lines commented out that you may find useful.
 
-**You will not be graded on how optimal the model is, simply if you've correctly trained one.** Kudos will be given to the best tuned model :) Here's some models that you might want to try from scikit, but feel free to use anything you want!
+**You will not be graded on how optimal the model is, simply if you've correctly trained one.** Kudos will be given to the best tuned model :)) Here's some models that you might want to try from scikit, but feel free to use anything you want!
 
 * [LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 * [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)

@@ -4,7 +4,7 @@ title: Data Science
 
 Feb 25
 : Jupyter/colab and Numpy
-  : [HW 3](../HWs/HW3.md)
+  : [HW 3](../HWs/HW3)
 : **HW 2 due**{: .label .label-red }
 
 Mar 4
