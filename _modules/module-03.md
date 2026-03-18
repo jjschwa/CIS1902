@@ -15,7 +15,7 @@ Mar 4
 
 Mar 18
 : Machine Learning
-  : HW 4
+  : [HW 4](../HWs/HW4)
 : **HW 3 due**{: .label .label-red }
 : [**Final Project Released**{: .label .label-yellow }](../project/project_spec)
 
