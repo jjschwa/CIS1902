@@ -4,7 +4,7 @@ title: Data Science
 
 Feb 25
 : [Jupyter/colab and Numpy](../slides/Lecture 6_ Jupyter_Colab and Numpy (1).pdf)
-  : [Colab Notebook](https://colab.research.google.com/drive/1ZU84otfV3uN3KaEr9SyblAnNRMf4-m0G?usp=sharing)
+: [Colab Notebook](https://colab.research.google.com/drive/1ZU84otfV3uN3KaEr9SyblAnNRMf4-m0G?usp=sharing)
   : [HW 3](../HWs/HW3)
 : **HW 2 due**{: .label .label-red }
 
@@ -14,7 +14,8 @@ Mar 4
 : [Colab Notebook](https://colab.research.google.com/drive/10rPZHl3grEIy8MXI0UWKg7Ev0emuKtFH?usp=sharing)
 
 Mar 18
-: Machine Learning
+: [Machine Learning](../slides/Lecture 8_ Machine Learning.pdf)
+: [Colab Notebook](../slides/Lecture8.ipynb)
   : [HW 4](../HWs/HW4)
 : **HW 3 due**{: .label .label-red }
 : [**Final Project Released**{: .label .label-yellow }](../project/project_spec)
