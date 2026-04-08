@@ -3,8 +3,8 @@ title: Web Dev
 ---
 
 Apr 1
-: Web Scraping and BeautifulSoup (maybe containerization?)
-  : HW 5
+: [Web Scraping and BeautifulSoup (maybe containerization?)](../slides/Lecture 10_ Web Scraping and BeautifulSoup (maybe containerization_).pdf)
+  : [HW 5](../HWs/HW5)
 : **HW 4 due**{: .label .label-red }
 
 Apr 8
